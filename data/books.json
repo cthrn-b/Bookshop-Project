@@ -1,0 +1,20 @@
+{
+  "9780001": {
+    "isbn": "9780001",
+    "title": "Node in Action",
+    "author": "Alice Cruz",
+    "reviews": {}
+  },
+  "9780002": {
+    "isbn": "9780002",
+    "title": "Express Essentials",
+    "author": "Ben Diaz",
+    "reviews": {}
+  },
+  "9780003": {
+    "isbn": "9780003",
+    "title": "JavaScript for APIs",
+    "author": "Alice Cruz",
+    "reviews": {}
+  }
+}

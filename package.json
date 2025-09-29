@@ -1,0 +1,19 @@
+{
+  "name": "bookshop",
+  "type": "commonjs",
+  "scripts": { "start": "node server.js",
+    "s1": "node scripts/1-getallbooks.js",
+    "s2": "node scripts/2-getdetailsISBN.js",
+    "s3": "node scripts/3-getbooksbyauthor.js",
+    "s4": "node scripts/4-getbooksbytitle.js",
+    "s5": "node scripts/5-getbookreview.js",
+    "s6": "node scripts/6-register.js",
+    "s7": "node scripts/7-login.js",
+    "s8": "node scripts/8-reviewaddmodify.js",
+    "s9": "node scripts/9-reviewdelete.js",
+    "s10": "node scripts/10-getbooks-async-callback.js",
+    "s11": "node scripts/11-searchISBN-promises.js",
+    "s12": "node scripts/12-searchAuthor.js",
+    "s13": "node scripts/13-searchTitle.js"
+  }
+}
